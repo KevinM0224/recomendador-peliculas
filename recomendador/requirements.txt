@@ -1,0 +1,6 @@
+  gradio
+  numpy
+  scipy==1.16.3
+  pandas
+  pyarrow
+  scikit-learn==1.6.1
