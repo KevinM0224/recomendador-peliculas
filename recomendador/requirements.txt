@@ -1,4 +1,4 @@
-  gradio
+ streamlit
   numpy
   scipy==1.16.3
   pandas
